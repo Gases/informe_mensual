@@ -4,3 +4,5 @@ CRF
 TDC
 TEE
 TEP
+.venv
+.ipynb_checkpoints
